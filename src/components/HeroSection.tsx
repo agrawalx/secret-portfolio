@@ -38,7 +38,7 @@ const HeroSection = () => {
         {/* Social Links */}
         <div className="flex items-center justify-center gap-4">
           <a
-            href="#"
+            href="https://github.com/agrawalx"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 glass-card hover-glow transition-all duration-300 hover:scale-105"
@@ -47,7 +47,7 @@ const HeroSection = () => {
             <Github className="w-5 h-5 text-foreground" />
           </a>
           <a
-            href="#"
+            href="https://x.com/_KxrMa_G"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 glass-card hover-glow transition-all duration-300 hover:scale-105"
@@ -56,7 +56,7 @@ const HeroSection = () => {
             <Twitter className="w-5 h-5 text-foreground" />
           </a>
           <a
-            href="#"
+            href="https://www.linkedin.com/in/yash-agrawal-774ab3267/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 glass-card hover-glow transition-all duration-300 hover:scale-105"

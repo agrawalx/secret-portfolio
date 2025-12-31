@@ -4,19 +4,19 @@ const socials = [
   {
     name: 'GitHub',
     icon: Github,
-    href: '#',
+    href: 'https://github.com/agrawalx',
     description: 'Check out my code',
   },
   {
     name: 'Twitter',
     icon: Twitter,
-    href: '#',
+    href: 'https://x.com/_KxrMa_G',
     description: 'Follow my updates',
   },
   {
     name: 'LinkedIn',
     icon: Linkedin,
-    href: '#',
+    href: 'https://www.linkedin.com/in/yash-agrawal-774ab3267/',
     description: 'Connect professionally',
   },
   {
